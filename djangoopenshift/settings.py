@@ -25,7 +25,7 @@ SECRET_KEY = '$h_le(ts#x)m!7$f*c=(_2i$jbmxiqk2$31i=3hmq+p$(emv1b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['python3-django.apps.10.2.2.2.xip.io']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
